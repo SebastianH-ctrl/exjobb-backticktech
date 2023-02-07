@@ -1,2 +1,2 @@
-# exjobb-backtichtech
+# exjobb-backticktech
 Examensarbete tillsammands med Backtick Technologies
